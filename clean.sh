@@ -9,4 +9,4 @@ function rmIfExist {
 
 rmIfExist build
 rmIfExist mods
-rmIfExist pl.tfij.java9modules.app-image
+rmIfExist pl.tfij.java9modules.application-image

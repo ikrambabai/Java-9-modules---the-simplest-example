@@ -1,3 +1,3 @@
-module pl.tfij.java9modules.app {
+module pl.tfij.java9modules.application {
     requires pl.tfij.java9modules.greetings;
 }

@@ -1,4 +1,4 @@
-package pl.tfij.java9modules.app;
+package pl.tfij.java9modules.application;
 
 import pl.tfij.java9modules.greetings.Greeting;
 
